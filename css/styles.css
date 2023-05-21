@@ -241,9 +241,6 @@ img {
 }
 
 /* TEAM */
-.team-wraper{
-  padding: 32px 0;
-}
 .master-list {
   display: flex;
   gap: 24px;
@@ -277,7 +274,7 @@ img {
   margin-bottom: 8px;
 }
 .master-info {
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 .scial-list-icon{
   fill: #f4f4fd;
