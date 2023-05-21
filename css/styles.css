@@ -340,7 +340,7 @@ img {
 .customers-icon:hover,.customers-icon:focus{
   fill: #404BBF;
 }
-.customers-icon-link:hover,.customers-icon-link:hover{
+.customers-icon-link:hover,.customers-icon-link:focus{
   border-color: #404bbf;
   color: #404bbf;
 }
@@ -466,6 +466,14 @@ margin-bottom: 16px;
   background: #404bbf;
   color: #ffffff;
   border: 1px solid transparent;
+}
+
+.portfolio-link{
+  display: block;
+}
+
+.portfolio-link:hover,.portfolio-link:focus{
+  box-shadow:0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 .app-list-port {
